@@ -1,0 +1,14 @@
+{
+  "name": "detectdifference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cool Plum",
+  "license": "ISC",
+  "dependencies": {
+    "pixelmatch": "^5.2.1"
+  }
+}
